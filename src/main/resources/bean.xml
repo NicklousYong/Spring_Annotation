@@ -11,7 +11,7 @@
         <property name="age" value="20"></property>
         <property name="name" value="aoteman"></property>
     </bean>
-    <!--input this line for test-->
+
     <aop:aspectj-autoproxy></aop:aspectj-autoproxy>
 
 </beans>
